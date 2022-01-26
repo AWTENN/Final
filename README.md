@@ -1,2 +1,2 @@
-# Final-Project-Vandy
+# Final
 This is our Final project
