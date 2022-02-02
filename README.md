@@ -9,6 +9,6 @@ Vandana Singh
 
 
 Alecia Jennings
-  -Working on using google api to look up places nearby by using the Sold Nashville Properties database using the python Jupyter Notebook.
+- Working on using google api to look up places nearby by using the Sold Nashville Properties database using the python Jupyter Notebook.
 
 Tonja Williams
