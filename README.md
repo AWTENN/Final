@@ -14,4 +14,5 @@ Alecia Jennings
 - I will be working on the first five.  Chris will do the rest.
 
 Tonja Williams
+- Working on the design of the dashboard in Tableau for our data visulizations. Currently working on schema and will submit an outline once complete and verified by team members.
 
