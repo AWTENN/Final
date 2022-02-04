@@ -1,5 +1,5 @@
-# Final
-This is our Final project
+# External Price Factors for Housing/Property
+Our question is which external factors correspond to housing/Property prices for Houses/Property sold in Septemeber 2021.
 
 
 Chris Foster-Palmer
