@@ -4,6 +4,7 @@ Our question is which external factors correspond to housing/Property prices for
 
 Chris Foster-Palmer
 - Created a compiled dataset of Sold Nashville Properties for Sep. 2021. Wanting to use as first dataset, and use as basis for data visualization.
+- Working on last five keywords for a nearby search using Google Places API to gather info for a dataframe.
 
 Vandana Kumari
 - We are going to use PostgreSQL database for this project.
