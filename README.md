@@ -1,10 +1,14 @@
 # External Price Factors for Housing/Property
 Our question is which external factors correspond to housing/Property prices for Houses/Property sold in Septemeber 2021.
+We will  be using a Multivariate Linear Regression Model at first to determine which features are statistically significant to use.
+Our main modes of communication for this were Slack and Zoom in and out of class.
 
 
 Chris Foster-Palmer
 - Created a compiled dataset of Sold Nashville Properties for Sep. 2021. Wanting to use as first dataset, and use as basis for data visualization.
-- Working on last five keywords for a nearby search using Google Places API to gather info for a dataframe.
+- Completed last five keywords for a nearby search using Google Places API to gather info for a dataframe.
+- Added Second half of Nearby Search Criteria data in csv format for Vindana to work with and join in database.
+- Added shell of linear regression model. Will create full model when join dataframe is created.
 
 Vandana Kumari
 - We are going to use PostgreSQL database for this project.
