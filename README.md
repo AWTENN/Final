@@ -11,8 +11,13 @@ Chris Foster-Palmer
 - Added shell of linear regression model. Will create full model when join dataframe is created.
 
 Vandana Kumari
-# DataBase
-- We will use SQLite database for our this project.SQLite is a relational database management system. It is also  an open source embedded database which means, it does not require   any server in order to communicate with the database.It is created on the file system.It is easy to transfer this database from one computer to another by copying. so I           downloaded and installed SQLite from [this site.](https://www.sqlite.org/download.html)
+### DataBase
+- We will use SQLite database for this project. SQLite is a relational database management system. It is also  an open source embedded database which means, it does not       require   any server in order to communicate with the database. It is created on the file system. It is easy to transfer this database from one computer to another by copying.     so I downloaded and installed SQLite from [here](https://www.sqlite.org/download.html)
+
+- We got our first dataset from Chris that he got from [here](https://www.padctn.org/services/recent-sales/#2021). For our second dataset,We got data from Chris & Alecia     for "House near by features"  in two different csv files. I worked on these csv files and merge them appropriately.
+
+- I have downloaded and installed SQLiteStudio from [here](https://sqlitestudio.pl/). I will use this tool to store and fetch data from different tables as needed.I will     create table and import csv file into my tables for further work.
+ 
 
 
 
