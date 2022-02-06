@@ -11,7 +11,10 @@ Chris Foster-Palmer
 - Added shell of linear regression model. Will create full model when join dataframe is created.
 
 Vandana Kumari
-- We are going to use PostgreSQL database for this project.
+# DataBase
+- We will use SQLite database for our this project.SQLite is a relational database management system. It is also  an open source embedded database which means, it does not require   any server in order to communicate with the database.It is created on the file system.It is easy to transfer this database from one computer to another by copying. so I           downloaded and installed SQLite from [this site.](https://www.sqlite.org/download.html)
+
+
 
 Alecia Jennings
 - Working on using google api to look up places nearby by using the Sold Nashville Properties database using the python Jupyter Notebook.
