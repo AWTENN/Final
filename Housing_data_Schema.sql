@@ -29,4 +29,10 @@ CREATE TABLE nearby_feature (
 );
 
 
-
+--I used Inner join to join both tables.
+Select h.PID, h.Property_Address, h.Property_city, h.House_Type, h.Sale_price, h.Sale_Date, h.Latitude,
+       h.Longitude, h.Zone, N.Restaurants, N.Supermarkets, N.Liquor_store, N.Schools, N.Churches,
+       N.Convenience_Store, N.Drugstore, N.Fire_Station, N.Hospital, N.Bar 
+from Housing_data h 
+inner join nearby_feature N
+on h.PID=N.PID ;
