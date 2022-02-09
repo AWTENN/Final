@@ -28,4 +28,5 @@ Alecia Jennings
 
 Tonja Williams
 - Working on the design of the dashboard in Tableau for our data visulizations. Currently working on schema and will submit an outline once complete and verified by team members.
+- Dashboard will have an interactive map, housing cost data, number of items in a specific category within a specific radius and the names of each category.  Each area of the dashboard will be interactive 
 
