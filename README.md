@@ -18,6 +18,7 @@ Vandana Kumari
 
 - I have downloaded and installed SQLiteStudio from [here](https://sqlitestudio.pl/). I will use this tool to store and fetch data from different tables as needed.I will     create table and import csv file into my tables for further work.
  
+ - The dataset have 1218 rows and 19 columns with unique property address but same street address have same latitude and longitude.I removed outlier from sale_price and kept      data between 100,000 and 1,000,000.
 
 
 
