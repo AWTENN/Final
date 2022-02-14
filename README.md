@@ -9,6 +9,7 @@ Chris Foster-Palmer
 - Completed last five keywords for a nearby search using Google Places API to gather info for a dataframe.
 - Added Second half of Nearby Search Criteria data in csv format for Vindana to work with and join in database.
 - Added shell of linear regression model. Will create full model when join dataframe is created.
+- Created first entry of Linear Regression model. Working on improving model with the new data created.
 
 Vandana Kumari
 ### DataBase
