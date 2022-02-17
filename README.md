@@ -10,6 +10,7 @@ Chris Foster-Palmer
 - Added Second half of Nearby Search Criteria data in csv format for Vindana to work with and join in database.
 - Added shell of linear regression model. Will create full model when join dataframe is created.
 - Created first entry of Linear Regression model. Working on improving model with the new data created.
+- Created Final(Hopefully) Entry of Multivariate Regression Model with a train and test model that had the same Statistically Significant data that the full dataset model had.
 
 Vandana Kumari
 ### DataBase
