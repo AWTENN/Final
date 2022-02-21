@@ -28,6 +28,8 @@ Alecia Jennings
 - Working on using google api to look up places nearby by using the Sold Nashville Properties database using the python Jupyter Notebook.
 - Made ten different categories and will work on the first five: restaurant, supermarket, liquor_store, school, church, convience_store, drugstore, hospital, bar, fire_station.
 - I will be working on the first five.  Chris will do the rest.
+- Cleaned up the data and removed some duplicates to help prevent the data from getting skewed.
+- Ended up accidentally spending $200 using API calls from google places
 
 Tonja Williams
 - Working on the design of the dashboard in Tableau for our data visulizations. Currently working on schema and will submit an outline once complete and verified by team members.
