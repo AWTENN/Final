@@ -9,6 +9,8 @@ Chris Foster-Palmer
 - Completed last five keywords for a nearby search using Google Places API to gather info for a dataframe.
 - Added Second half of Nearby Search Criteria data in csv format for Vindana to work with and join in database.
 - Added shell of linear regression model. Will create full model when join dataframe is created.
+- Created first entry of Linear Regression model. Working on improving model with the new data created.
+- Created Final(Hopefully) Entry of Multivariate Regression Model with a train and test model that had the same Statistically Significant data that the full dataset model had.
 
 Vandana Kumari
 ### DataBase
@@ -29,5 +31,6 @@ Alecia Jennings
 
 Tonja Williams
 - Working on the design of the dashboard in Tableau for our data visulizations. Currently working on schema and will submit an outline once complete and verified by team members.
-- Dashboard will have an interactive map, housing cost data, number of items in a specific category within a specific radius and the names of each category.  Each area of the dashboard will be interactive 
+- Dashboard will have an interactive map, housing cost data, number of items in a specific category within a specific radius and the names of each category.  Each area of the dashboard will be interactive.
+- Developed first draft of our visualization and included the file on the main branch.  Link is [here](https://public.tableau.com/app/profile/tonjakae/viz/VandyDataViz-FinalProject/FinalProjectDataViz?publish=yes) as well.
 
