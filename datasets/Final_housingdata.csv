@@ -1,4 +1,4 @@
-PID,Property Address,Property City,House Type,Sale Price(USD),Sale Date,Latitude,Longitude,Zone,Restaurants,Supermarkets,Liquor Store,Schools,Churches,Convenience_Store,Drugstore,Fire_Station,Hospital,
+PID,Property Address,Property City,House Type,Sale Price(USD),Sale Date,Latitude,Longitude,Zone,Restaurants,Supermarkets,Liquor_Stores,Schools,Churches,Convenience_Store,Drug store,Fire_Station,Hospital,Bars
 1,1100  CHEYENNE  CIR,MADISON,SINGLE FAMILY,304000,9/7/2021,36.2524142,-86.670697,6,20,7,8,20,20,20,8,2,2,20
 2,3450  GREER  RD,GOODLETTSVILLE,SINGLE FAMILY,405000,9/17/2021,36.3835361,-86.7832459,5,16,0,2,9,11,5,2,0,0,0
 3,8565  WHITES CREEK  PIKE,JOELTON,SINGLE FAMILY,666500,9/22/2021,36.3811685,-86.8945705,5,1,0,1,1,10,2,0,0,0,0
