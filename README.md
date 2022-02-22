@@ -34,5 +34,8 @@ Alecia Jennings
 Tonja Williams
 - Working on the design of the dashboard in Tableau for our data visulizations. Currently working on schema and will submit an outline once complete and verified by team members.
 - Dashboard will have an interactive map, housing cost data, number of items in a specific category within a specific radius and the names of each category.  Each area of the dashboard will be interactive.
-- Developed first draft of our visualization and included the file on the main branch.  Link is [here](https://public.tableau.com/app/profile/tonjakae/viz/DavidsonCountySeptember2021PropertySales_16454970190000/PropertyLocationandNearbyFeatures) as well.
+- Developed first draft of our visualization and included the file on the main branch.  
+- 
+- Dashboard 1 is [here](https://public.tableau.com/app/profile/tonjakae/viz/DavidsonCountySeptember2021PropertySales_16454970190000/PropertyLocationandNearbyFeatures) as well.
+- Dashboard 2 is [here](https://public.tableau.com/app/profile/tonjakae/viz/DavidsonCountySeptember2021PropertySales_16454970190000/PropertyLocationandNearbyFeatures)
 
