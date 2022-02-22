@@ -36,5 +36,5 @@ Tonja Williams
 - Dashboard will have an interactive map, housing cost data, number of items in a specific category within a specific radius and the names of each category.  Each area of the dashboard will be interactive.
 - Developed first draft of our visualization and included the file on the main branch.  
 
-- Storyboard is [here](https://public.tableau.com/authoring/DavidsonCountySeptember2021PropertySales_16454970190000/FinalsStory#1)
+- Storyboard is [here](https://public.tableau.com/app/profile/tonjakae/viz/DavidsonCountySeptember2021PropertySales_16454970190000/FinalsStory#2)
 
