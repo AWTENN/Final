@@ -1,5 +1,7 @@
 # External Price Factors for Housing/Property
+
 Presentation: https://docs.google.com/presentation/d/1jU2Q-GAaqvnKQMeYRn_1Vq03gSR91qXO12S6H0fUi8w/edit#slide=id.p
+
 Our question is which external factors correspond to housing/Property prices for Houses/Property sold in Septemeber 2021.
 We will  be using a Multivariate Linear Regression Model at first to determine which features are statistically significant to use.
 Our main modes of communication for this were Slack and Zoom in and out of class.
